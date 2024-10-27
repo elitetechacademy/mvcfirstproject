@@ -44,5 +44,24 @@ namespace MvcCore_Model_View_Controller.Controllers
             _productService.Products.Add(product);
             return RedirectToAction("GetAllProducts");
         }
+
+        [Route("Update")]
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            var product = _productService.Products.Find(x => x.Id == id);
+            return View(product);
+        }
+
+        [Route("Update")]
+        [HttpPost]
+        public IActionResult Update(Product product)
+        {
+            var existsProduct = _productService.Products.Find(x => x.Id == product.Id);
+            existsProduct.Name = product.Name;
+            existsProduct.Detail = product.Detail;
+            existsProduct.ImageUrl = product.ImageUrl;
+            return RedirectToAction("GetAllProducts");
+        }
     }
 }
