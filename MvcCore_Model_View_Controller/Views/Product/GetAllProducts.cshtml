@@ -1,0 +1,28 @@
+﻿@model List<Product>
+
+
+<h4>Ürün Listesi</h4>
+
+<table class="table table-responsive table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Resim</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var product in Model)
+            {
+                <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td><img src="@Url.Content(product.ImageUrl)" style="width:25%;height:25%"/></td>
+                    <td><a href="@Url.Action("Detail","Product", new{productId = product.Id, comment=$"{product.Id} numaralı ürünün detayları"})" class="btn btn-primary">Detaylar</a></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
