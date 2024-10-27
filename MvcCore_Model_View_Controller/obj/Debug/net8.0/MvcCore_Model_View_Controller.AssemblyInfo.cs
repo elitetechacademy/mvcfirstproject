@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcCore_Model_View_Controller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b8c5b0f6823f61f1dbb2956bf02a0119f139197")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d919f7134d1dc3ba8d8656447a83e8893ef2f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcCore_Model_View_Controller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcCore_Model_View_Controller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

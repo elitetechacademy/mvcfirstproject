@@ -21,6 +21,7 @@
                 <td>@product.Name</td>
                 <td><img src="@Url.Content(product.ImageUrl)" style="width:25%;height:25%"/></td>
                     <td><a href="@Url.Action("Detail","Product", new{productId = product.Id, comment=$"{product.Id} numaralı ürünün detayları"})" class="btn btn-primary">Detaylar</a></td>
+                    <td><a href="@Url.Action("Update","Product", new{id = product.Id})" class="btn btn-success">Güncelle</a></td>
                 </tr>
             }
         }
