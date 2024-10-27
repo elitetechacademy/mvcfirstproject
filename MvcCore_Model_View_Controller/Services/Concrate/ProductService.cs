@@ -15,7 +15,6 @@ namespace MvcCore_Model_View_Controller.Services.Concrate
                 new Product{Id = 2, Name = "Ürün 2", Detail="Detay 2", ImageUrl="~/images/products/urun2.jpg"},
             };
         }
-        //TODOsoykuTest
 
         public List<Product> Products { get { return _products; } }
     }
