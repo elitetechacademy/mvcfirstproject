@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\MvcCore_Model_View_Controller.props" />
-</Project>
