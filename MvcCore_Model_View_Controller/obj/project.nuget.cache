@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1R83AiAnXpo=",
+  "dgSpecHash": "7hcX1Ab9AhQ=",
   "success": true,
-  "projectFilePath": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj",
+  "projectFilePath": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\mvcfirstproject\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halilibrahim.arac\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\halilibrahim.arac\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

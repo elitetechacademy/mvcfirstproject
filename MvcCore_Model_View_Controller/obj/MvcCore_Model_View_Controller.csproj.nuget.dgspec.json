@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj": {}
+    "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\mvcfirstproject\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj": {}
   },
   "projects": {
-    "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj": {
+    "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\mvcfirstproject\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj",
+        "projectUniqueName": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\mvcfirstproject\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj",
         "projectName": "MvcCore_Model_View_Controller",
-        "projectPath": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj",
+        "projectPath": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\mvcfirstproject\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller.csproj",
         "packagesPath": "C:\\Users\\halilibrahim.arac\\.nuget\\packages\\",
-        "outputPath": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\MvcCore_Model_View_Controller\\MvcCore_Model_View_Controller\\obj\\",
+        "outputPath": "D:\\Elitetech\\Eğitimler\\Eğitimler\\14 Eylül\\6. Hafta\\Uygulamalar\\mvcfirstproject\\MvcCore_Model_View_Controller\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halilibrahim.arac\\AppData\\Roaming\\NuGet\\NuGet.Config",
